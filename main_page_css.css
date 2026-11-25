@@ -1,0 +1,94 @@
+h1 {
+  text-decoration: underline;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  color: #2a6f97;
+  font-variant: small-caps;
+}
+
+#EU {
+  position: absolute; /*Lets you place the button wherever you want on the page. */
+  top: 40%; /*Places the button 47% from the top of the page.*/
+  left: 50.4%; /*Places the button 50.4% from the left of the page.*/
+  transform: translate(
+    -50%,
+    -50%
+  ); /*Moves the button back by half of its own size, so it can be properly centered.*/
+  font-size: 20px;
+}
+
+body {
+  /*background-image: url("https://i.pinimg.com/736x/b4/83/50/b48350559d24f840fc11870447142b70.jpg");*/
+  background-size: cover; /*Makes the image cover the whole page*/
+  background-position: center; /*Puts the image in the center of the page*/
+  background-attachment: fixed; /*Keeps the background image in the same place when you scroll.*/
+}
+
+#EU_2 {
+  position: absolute; /*Lets you place the button wherever you want on the page. */
+  top: 50%; /*Places the button 47% from the top of the page.*/
+  left: 50.4%; /*Places the button 50.4% from the left of the page.*/
+  transform: translate(
+    -50%,
+    -50%
+  ); /*Moves the button back by half of its own size, so it can be properly centered.*/
+  font-size: 20px;
+}
+
+#CO {
+  position: absolute; /*Lets you place the button wherever you want on the page. */
+  top: 60%; /*Places the button 47% from the top of the page.*/
+  left: 50.4%; /*Places the button 50.4% from the left of the page.*/
+  transform: translate(
+    -50%,
+    -50%
+  ); /*Moves the button back by half of its own size, so it can be properly centered.*/
+  font-size: 20px;
+}
+
+#CO_2 {
+  position: absolute; /*Lets you place the button wherever you want on the page. */
+  top: 70%; /*Places the button 47% from the top of the page.*/
+  left: 50.4%; /*Places the button 50.4% from the left of the page.*/
+  transform: translate(
+    -50%,
+    -50%
+  ); /*Moves the button back by half of its own size, so it can be properly centered.*/
+  font-size: 20px;
+}
+
+#TI {
+  position: absolute; /*Lets you place the button wherever you want on the page. */
+  top: 70%; /*Places the button 47% from the top of the page.*/
+  left: 50.4%; /*Places the button 50.4% from the left of the page.*/
+  transform: translate(
+    -50%,
+    -50%
+  ); /*Moves the button back by half of its own size, so it can be properly centered.*/
+  font-size: 20px;
+}
+
+#TI_2 {
+  position: absolute; /*Lets you place the button wherever you want on the page. */
+  top: 80%; /*Places the button 47% from the top of the page.*/
+  left: 50.4%; /*Places the button 50.4% from the left of the page.*/
+  transform: translate(
+    -50%,
+    -50%
+  ); /*Moves the button back by half of its own size, so it can be properly centered.*/
+  font-size: 20px;
+}
+
+h3 {
+  position: sticky;
+}
+
+.Buttons {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border-color: rgb(145, 162, 255);
+  border-width: 7px;
+  border-radius: 10px;
+}
